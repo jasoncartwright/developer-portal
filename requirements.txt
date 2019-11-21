@@ -12,7 +12,7 @@ boto3==1.10.23
 psycopg2==2.8.4
 Pygments==2.4.2
 readtime==1.1.1
-wagtail==2.6.3
+wagtail==2.7
 wagtail-bakery==0.3.0
 whitenoise==4.1.4
 urlwait==0.4
